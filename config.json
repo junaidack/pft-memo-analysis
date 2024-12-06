@@ -1,0 +1,4 @@
+{
+    "google_creds_path": "gcp-service-account-creds.json",
+    "openrouter_key": "your-openrouter-api-key-here"
+}
